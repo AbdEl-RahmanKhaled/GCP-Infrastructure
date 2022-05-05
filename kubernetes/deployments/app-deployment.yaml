@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: app-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      name: my-app
+  template:
+    metadata:
+      labels:
+        name: my-app
+    spec:
+      containers:
+      - name: my-app
+        image: eu.gcr.io/final-task-iti/my-app:1.0
+        ports:
+        - containerPort: 80
+        envFrom:
+        - configMapRef:
+            name: my-app-cm

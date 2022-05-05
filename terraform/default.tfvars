@@ -1,0 +1,8 @@
+project_name = "final-task-iti"
+vpc_name = "vpc-network"
+sub1_region = "europe-west1"
+sub2_region = "europe-west1"
+sub2_name = "management-sub"
+sub1_name = "restricted-sub"
+sub1_cidr = "10.0.1.0/24"
+sub2_cidr = "10.0.2.0/24"
