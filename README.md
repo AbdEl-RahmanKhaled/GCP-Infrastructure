@@ -48,7 +48,7 @@ This project contains:
 
         ```bash
         # NOTE
-        Only the VMs in "management-sub" subnet can access the Kubernetes cluster.
+        Only VMs in "management-sub" subnet can access the Kubernetes cluster.
         ```
     you can change some variables values in "terraform/default.tfvars"
     
