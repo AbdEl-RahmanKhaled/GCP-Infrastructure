@@ -1,7 +1,6 @@
 # Google Cloud Project
 ## Project Info.
 
----
 This project contains:
 *  Infrastructure as code using [Terraform](https://www.terraform.io/) that builds an environment on the google cloud platform
 * Demo app with Dockerfile
@@ -9,14 +8,12 @@ This project contains:
 
 ## Tools Used
 
----
 <p align="center">
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AbdEl-RahmanKhaled/AbdEl-RahmanKhaled/main/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AbdEl-RahmanKhaled/AbdEl-RahmanKhaled/main/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AbdEl-RahmanKhaled/AbdEl-RahmanKhaled/main/icons/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AbdEl-RahmanKhaled/AbdEl-RahmanKhaled/main/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
 ## Get Started
 
----
 ### Get The Code 
 * Using [Git](https://git-scm.com/), clone the project.
 
