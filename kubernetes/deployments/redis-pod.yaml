@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
   - name: redis
-    image: redis
+    image: eu.gcr.io/final-task-iti/redis:5.0
     ports:
     - containerPort: 6379
